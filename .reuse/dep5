@@ -1,0 +1,18 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Alias
+Upstream-Contact: Alias Developers <info@alias.cash>
+Source: https://github.com/aliascash/resources
+
+# ############################################################################
+# BSD Licenses
+Files: resources/Tor*
+Copyright: 2001-2004, Roger Dingledine
+Copyright: 2004-2006, Roger Dingledine, Nick Mathewson
+Copyright: 2007-2019, The Tor Project, Inc.
+License: BSD-3-Clause
+
+# ############################################################################
+# MS-PL Licenses
+Files: resources/VCRuntime*
+Copyright: MS
+License: MS-PL
