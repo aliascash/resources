@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: © 2022 Alias Developers
+# SPDX-License-Identifier: MIT
+
+.idea/
+*.iml
+.DS_Store
